@@ -1,5 +1,3 @@
-# Launch Screen Assets
-
-You can customize the launch screen with your own desired assets by replacing the image files in this directory.
-
-You can also do it by opening your Flutter project's Xcode project with `open ios/Runner.xcworkspace`, selecting `Runner/Assets.xcassets` in the Project Navigator and dropping in the desired images.
+# Education App Design
+Flutter UI implementation based on [Education App](https://dribbble.com/shots/6947480-Education-App) designed by [Manoj Dalvadi](https://dribbble.com/ManojDalvadi)
+[![N|Solid](https://cdn.dribbble.com/users/2472186/screenshots/6947480/education_app.png)](https://dribbble.com/shots/6947480-Education-App)
